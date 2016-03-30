@@ -1,2 +1,2 @@
-# Hackerrank
-Some of My C# Hackerrank code I made. Please use it to learn from and become a better developer.
+# Code Snippets
+Some of My C# Code Snippets I have made. Please use it to learn from and become a better developer.
