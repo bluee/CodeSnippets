@@ -6,8 +6,6 @@ namespace ConsoleApplication4
 {
     class Solution
     {
-
-
         class Node
         {
             public Node left, right;
